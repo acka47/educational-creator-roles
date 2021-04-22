@@ -35,4 +35,14 @@ _:b7iddOtlocdOtgovvocabularyrelatorsaut <http://www.w3.org/2008/05/skos-xl#liter
 <http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#definition> "A person, family, or organization contributing to a resource by supplementing the primary content with drawings, diagrams, photographs, etc. If the work is primarily the artistic content created by this entity, use artist or photographer"@en .
 <http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#editorial> "Changed MARC def"@en .
 <http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#notation> "ill" .
-<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .
+<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#prefLabel> "Screenwriter" .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2008/05/skos-xl#altLabel> _:b7iddOtlocdOtgovvocabularyrelatorsaus .
+_:b7iddOtlocdOtgovvocabularyrelatorsaus <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+_:b7iddOtlocdOtgovvocabularyrelatorsaus <http://www.w3.org/2008/05/skos-xl#literalForm> "Author of screenplay, etc." .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/vocabulary/relators/aut> .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#definition> "An author of a screenplay, script, or scene"@en .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#editorial> "Changed MARC def"@en .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#notation> "aus" .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#altLabel> "Author of screenplay, etc." .
