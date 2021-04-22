@@ -45,5 +45,6 @@ _:b7iddOtlocdOtgovvocabularyrelatorsaus <http://www.w3.org/2008/05/skos-xl#liter
 <http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#editorial> "Changed MARC def"@en .
 <http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#notation> "aus" .
 <http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .
-<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#altLabel> "Author of screenplay, etc." .<http://id.loc.gov/vocabulary/relators> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<http://id.loc.gov/vocabulary/relators/aus> <http://www.w3.org/2004/02/skos/core#altLabel> "Author of screenplay, etc." .
+<http://id.loc.gov/vocabulary/relators> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
 <http://id.loc.gov/vocabulary/relators> <http://www.w3.org/2000/01/rdf-schema#label> "MARC Code List for Relators Scheme"@en .
