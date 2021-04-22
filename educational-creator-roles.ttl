@@ -1,0 +1,38 @@
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#prefLabel> "Author" .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2008/05/skos-xl#altLabel> _:b7iddOtlocdOtgovvocabularyrelatorsaut .
+_:b7iddOtlocdOtgovvocabularyrelatorsaut <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2008/05/skos-xl#Label> .
+_:b7iddOtlocdOtgovvocabularyrelatorsaut <http://www.w3.org/2008/05/skos-xl#literalForm> "Joint author" .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/lbt> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/aus> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/aft> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/scl> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/aqt> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/lyr> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/aud> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#narrower> <http://id.loc.gov/vocabulary/relators/aui> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#definition> "A person, family, or organization responsible for creating a work that is primarily textual in content, regardless of media type (e.g., printed text, spoken word, electronic text, tactile text) or genre (e.g., poems, novels, screenplays, blogs). Use also for persons, etc., creating a new work by paraphrasing, rewriting, or adapting works by another creator such that the modification has substantially changed the nature and content of the original or changed the medium of expression"@en .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#editorial> "changed MARC def"@en .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#notation> "aut" .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .
+<http://id.loc.gov/vocabulary/relators/aut> <http://www.w3.org/2004/02/skos/core#altLabel> "Joint author" .<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/2004/02/skos/core#prefLabel> "Publisher" .
+<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/2004/02/skos/core#broader> <http://id.loc.gov/vocabulary/relators/prv> .
+<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/2004/02/skos/core#definition> "A person or organization responsible for publishing, releasing, or issuing a resource"@en .
+<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/2004/02/skos/core#editorial> "Changed MARC def"@en .
+<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/2004/02/skos/core#notation> "pbl" .
+<http://id.loc.gov/vocabulary/relators/pbl> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .<http://id.loc.gov/vocabulary/relators/rev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.loc.gov/vocabulary/relators/rev> <http://www.w3.org/2004/02/skos/core#prefLabel> "Reviewer" .
+<http://id.loc.gov/vocabulary/relators/rev> <http://www.w3.org/2004/02/skos/core#definition> "A person or organization responsible for the review of a book, motion picture, performance, etc."@en .
+<http://id.loc.gov/vocabulary/relators/rev> <http://www.w3.org/2004/02/skos/core#notation> "rev" .
+<http://id.loc.gov/vocabulary/relators/rev> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/2004/02/skos/core#prefLabel> "Editor" .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/2004/02/skos/core#definition> "A person, family, or organization contributing to a resource by revising or elucidating the content, e.g., adding an introduction, notes, or other critical matter. An editor may also prepare a resource for production, publication, or distribution. For major revisions, adaptations, etc., that substantially change the nature and content of the original work, resulting in a new work, see author"@en .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/2004/02/skos/core#editorial> "Changed MARC def"@en .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/2004/02/skos/core#notation> "edt" .
+<http://id.loc.gov/vocabulary/relators/edt> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#prefLabel> "Illustrator" .
+<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#definition> "A person, family, or organization contributing to a resource by supplementing the primary content with drawings, diagrams, photographs, etc. If the work is primarily the artistic content created by this entity, use artist or photographer"@en .
+<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#editorial> "Changed MARC def"@en .
+<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#notation> "ill" .
+<http://id.loc.gov/vocabulary/relators/ill> <http://www.w3.org/2004/02/skos/core#inScheme> <http://id.loc.gov/vocabulary/relators> .
